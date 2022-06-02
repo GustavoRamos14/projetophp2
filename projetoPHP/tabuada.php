@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Apostila PHP Progressivo</title>
+  <title>Tabuada</title>
  </head>
  <body>
  <form action="" method="get">
